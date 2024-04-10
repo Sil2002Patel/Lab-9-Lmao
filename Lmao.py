@@ -1,3 +1,4 @@
+#Zachary Merlo
 def encoder(stri):
     l=[]
     nstr=''
